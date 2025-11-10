@@ -1,0 +1,13 @@
+langchain_core
+langchain-openai
+langchain-community
+langchain-experimental
+
+pandas
+numpy
+matplotlib
+mysql-connector-python
+pymysql
+
+
+streamlit

@@ -1,0 +1,8 @@
+# ===== Environment, cache folders =====
+env/
+**/__pycache__/
+.copilotignore
+create_agent/recommender_vector_index/
+
+# ===== Secrets, passwords and keys =====
+.streamlit/secrets.toml

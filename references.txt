@@ -1,0 +1,10 @@
+references:
+https://stackoverflow.com/questions/77416564/how-to-avoid-full-streamlit-app-re-run-on-user-input
+https://docs.langchain.com/oss/python/langchain/sql-agent
+https://www.youtube.com/watch?v=wFdFLWc-W4k&t=672s 
+https://reference.langchain.com/python/langchain_core/prompts/
+https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset 
+https://www.youtube.com/watch?v=4wtrl4hnPT8&list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F
+https://docs.langchain.com/oss/python/integrations/text_embedding/openai
+https://docs.langchain.com/oss/python/langchain/agents
+https://docs.langchain.com/oss/python/integrations/tools/sql_database 
